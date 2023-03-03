@@ -3,7 +3,7 @@
 This is a collection of projects that I've been working on since before I know Git/GitHub, but now I think about making a back up of them so whats better than GithHub.
 
 ## Renders of some the projects that I've built so far (Latest -> Oldest)
----
+
 ## [Infinity Gauntlet](/infinity_guantlet/Infinity_gauntlet.blend)
   <img height="405px" width="auto" src="https://user-images.githubusercontent.com/76243585/222736947-c9a37d74-e888-4fd0-ac5a-5651cc7dc2f1.png" title="INFINITY_GAUNTLET_MODIFIED">
 
