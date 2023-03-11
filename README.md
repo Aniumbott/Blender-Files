@@ -4,6 +4,9 @@ This is a collection of projects that I've been working on since before I know G
 
 ## Renders of some the projects that I've built so far (Latest -> Oldest)
 
+### [Sewing_Machine](/sewing_machine.blend)
+  <img height="405px" width="auto" src="https://user-images.githubusercontent.com/76243585/224504579-8d2074a0-9af2-4900-85d0-6b7d5dcb678e.png" title="Sewing_Machine">
+
 ### [Infinity Gauntlet](/infinity_guantlet/Infinity_gauntlet.blend)
   <img height="405px" width="auto" src="https://user-images.githubusercontent.com/76243585/222736947-c9a37d74-e888-4fd0-ac5a-5651cc7dc2f1.png" title="INFINITY_GAUNTLET_MODIFIED">
 
