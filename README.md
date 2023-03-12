@@ -4,7 +4,7 @@ This is a collection of projects that I've been working on since before I know G
 
 ## Renders of some the projects that I've built so far (Latest -> Oldest)
 
-### [SNLS_Sewing_Machine](/sewing_machine.blend)
+### [SNLS_Sewing_Machine](/snls.blend)
 
   <img height="720px" width="auto" src="https://user-images.githubusercontent.com/76243585/224527021-a51a9a07-9aa2-49c5-9c21-5bb9b8616d62.png" title="SNLS_Sewing_Machine">
   <img height="720px" width="auto" src="https://user-images.githubusercontent.com/76243585/224527031-78df35ad-48f4-4889-ac6e-68bebd16b98b.png" title="SNLS_Sewing_Machine_Needle">
