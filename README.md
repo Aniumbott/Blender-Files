@@ -5,7 +5,6 @@ This is a collection of projects that I've been working on since before I know G
 ## Renders of some the projects that I've built so far (Latest -> Oldest)
 
 ### [SNLS_Sewing_Machine](/snls.blend)
-
   <img height="720px" width="auto" src="https://user-images.githubusercontent.com/76243585/224527021-a51a9a07-9aa2-49c5-9c21-5bb9b8616d62.png" title="SNLS_Sewing_Machine">
   <img height="720px" width="auto" src="https://user-images.githubusercontent.com/76243585/224527031-78df35ad-48f4-4889-ac6e-68bebd16b98b.png" title="SNLS_Sewing_Machine_Needle">
 
@@ -15,14 +14,18 @@ This is a collection of projects that I've been working on since before I know G
 ### [Infinity Gauntlet](/infinity_guantlet/Infinity_gauntlet.blend)
   <img height="405px" width="auto" src="https://user-images.githubusercontent.com/76243585/222736947-c9a37d74-e888-4fd0-ac5a-5651cc7dc2f1.png" title="INFINITY_GAUNTLET_MODIFIED">
 
+### [Human Torso](/six-packs.blend)
+  <img height="405px" width="auto" src="https://user-images.githubusercontent.com/76243585/222735718-7e89a347-0db2-4ab0-8f09-1d2f015d8ff1.png" title="body">
+ 
+ ### [Abstarct](/abstract.blend)
+  <video src="https://user-images.githubusercontent.com/76243585/224551954-25a30777-84ad-4a14-aa33-2f284f349242.mp4" controls="controls" style="max-height:720px; max-width:auto;">
+  </video>
+
 ### [Storm Breaker](/STORMBREAKER_1.blend)
   <img height="405px" width="auto" src="https://user-images.githubusercontent.com/76243585/222737437-42bdac76-4b30-4919-a025-31262a5d4c05.png" title="STORMBREKER">
 
 ### [Arc Reactor](/ARC_REACTOR.blend)
   <img height="405px" width="auto" src="https://user-images.githubusercontent.com/76243585/222735521-2051206c-1b31-409e-be46-6c4d74505ca7.png" title="ARC REACTOR">
-
-### [Human Torso](/six-packs.blend)
-  <img height="405px" width="auto" src="https://user-images.githubusercontent.com/76243585/222735718-7e89a347-0db2-4ab0-8f09-1d2f015d8ff1.png" title="body">
 
 ### [Among Us](/among_us.blend)
   <img height="405px" width="auto" src="https://user-images.githubusercontent.com/76243585/222735286-044e1e9f-7087-456b-9e2b-cac87645bf74.png" title="AMONG_US">
